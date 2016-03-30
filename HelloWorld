@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exemplo de JavaScript</title>
+<meta charset="utf-8">
+</head>
+<body>
+<script> window.alert("olá mundo!"); </script>
+Voltou para o HTML.
+</body>
+</html>
